@@ -27,7 +27,7 @@ th {
 <a href="my hobbies.html"><img src="my hobbies.png"></a>
 <br>
 <br>
-<center><img src="my family.jpeg" alt="" witdh="80%" height="80%"</center>
+<center><img src="my family.jpg" alt="" witdh="80%" height="80%"</center>
 <center><font size="5"><i>Picture of my parents while celebrating my father's birthday</i></font></center>
 <br>
 <table class="center">
